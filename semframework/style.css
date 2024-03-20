@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.caixacentro{
+    width: 1080px;
+    height: 800px;
+    margin: 0 auto;
+    background-color: #333;
+}
+.esquerda{
+    width: 500px;
+    height: 600px;
+    float: left;
+    background-color: yellow;
+    margin: 20px;
+}
+.direita{
+    width: 500px;
+    height: 600px;
+    float: right;
+    background-color: red;
+    margin: 20px;
+
+}
