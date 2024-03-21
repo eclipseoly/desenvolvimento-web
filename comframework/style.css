@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    z-index: 0;
+}
+html{
+    background-color: #333;
+}
+.nav-tabs{
+    margin: 0;
+    background-color: rgb(31, 31, 31);
+    height: 8vh;
+}
+.menu{
+    /* position: fixed;
+    z-index: 1; */
+    width: 100vw;
+}
+.texto{
+    margin: 2vh auto;
+    padding: 0 12vw;
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: white;
+    color: inherit;
+}
+img{
+    display: block;
+    margin: 4vh auto;
+    border-radius: 10px;
+}
+.cavalos{
+    width: 36vw;
+    margin: 0 auto;
+}
